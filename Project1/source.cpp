@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int MyGold = 0;
-	float HP = 0.111242f;
+	float HP = 0.12332f;
 	char h = 'H';
 	char e = 'E';
 	char l = 'L';
