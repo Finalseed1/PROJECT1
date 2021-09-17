@@ -12,8 +12,8 @@ int main()
 	char o = 'O';
 
 	cout << MyGold << endl;
-	cout << HP << endl;
 	cout << h << e << l << l << o << endl;
+	cout << "sdfsd" << endl;
 
 	return 0;
 }
